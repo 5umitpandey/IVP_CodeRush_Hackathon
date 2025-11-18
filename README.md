@@ -1,4 +1,4 @@
-﻿# ctrl-alt-elite
+﻿# IVP CodeRush Hackathon
 
 ## Overview
 A single-page application built with React + TypeScript and Vite. Fast dev server, optimized production builds, and utility-first styling with Tailwind CSS. Entry points: `src/App.tsx` and `src/main.tsx`.
