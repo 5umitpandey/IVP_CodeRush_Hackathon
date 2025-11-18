@@ -81,10 +81,12 @@ npm run dev
 npm test
 ```
 
-## Screenshots
-![Screenshot 1](./screenshots/{screenshot_1.png})
-![Screenshot 2](./screenshots/{screenshot_2.png})
-![Screenshot 3](./screenshots/{screenshot_3.png})
+## Screenshots!
+![Screenshot 1](https://raw.githubusercontent.com/5umitpandey/IVP_CodeRush_Hackathon/main/Screenshot1.png)
+![Screenshot 2](https://raw.githubusercontent.com/5umitpandey/IVP_CodeRush_Hackathon/main/Screenshot2.png)
+![Screenshot 3](https://raw.githubusercontent.com/5umitpandey/IVP_CodeRush_Hackathon/main/Screenshot3.png)
+
+
 
 ## Contributing
 - Fork the repo
@@ -98,3 +100,7 @@ MIT
 
 ## Live Demo
 A live demo of the application is available at: [Live Demo](https://moodflow-docker-app-latest.onrender.com/)
+
+
+## Prize!
+![Prize](https://raw.githubusercontent.com/5umitpandey/IVP_CodeRush_Hackathon/main/IVP_Prize_C.JPG)
