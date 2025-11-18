@@ -27,3 +27,5 @@ dist-ssr
 deploy/
 .dockerignore
 deploy.rar
+Dockerfile
+Dockerrun.aws
